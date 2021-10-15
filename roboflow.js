@@ -109,7 +109,7 @@ async function getPredictions(file) {
         method: "POST",
         url: "https://detect.roboflow.com/blood-cell-detection-1ekwu/2",
         params: {
-            api_key: "ka4jO9qBttPUvVQB5LCC"
+            api_key: "add_key"
         },
         data: image,
         headers: {
